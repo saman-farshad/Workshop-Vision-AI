@@ -5,13 +5,12 @@
 
 The Streamlit dashboard displays workshop occupancy, movement statistics, zone activity and crowd alerts.
 
-![Workshop Vision AI Dashboard](assets/dashboard_preview.png)
+
 **Anonymous Workplace Occupancy & Movement Dashboard**  
 **Developed by Saman Farshad**
 
 A practical computer-vision portfolio project using Python, OpenCV, YOLO11, pandas and Streamlit. It detects visible people from video/camera input, counts people in workshop zones, estimates motion, warns about crowding and displays aggregate reports.
 
-![Synthetic workshop demonstration](assets/demo_preview.png)
 
 ## Features
 
