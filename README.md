@@ -1,5 +1,11 @@
 # Workshop Vision AI
 
+![Synthetic workshop demonstration](assets/demo_preview.png)
+### Management Dashboard
+
+The Streamlit dashboard displays workshop occupancy, movement statistics, zone activity and crowd alerts.
+
+![Workshop Vision AI Dashboard](assets/dashboard_preview.png)
 **Anonymous Workplace Occupancy & Movement Dashboard**  
 **Developed by Saman Farshad**
 
